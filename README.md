@@ -18,6 +18,13 @@
 - `npm` and `pnpm` should be installed.
 - `git` should be installed (recommended v2.4.11 or higher)
 
+### Alternatively
+
+- Docker should be installed
+- Run the application in VScode dev container:
+ <kbd>shift</kbd> + <kbd>command</kbd> + <kbd>p</kbd> to open VScode command and then search `Rebuild` to start Application container.
+ 
+
 ### Available scripts
 
 
